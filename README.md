@@ -30,25 +30,16 @@ I was interested in using Stack Overflow data from 2017 to answer the following 
 + Please find in Medium Article and/or jupyter code.
 
 ### Medium Blob Post
-<<<<<<< HEAD
-The main findings of the code can be found at the post available here [Medium](https://jumahamdan.medium.com/exploratory-data-analysis-of-stack-overflow-developer-survey-cdd69462cc92).
-=======
-The main findings of the code can be found at the post available here on [Medium](https://jumahamdan.medium.com/exploratory-data-analysis-of-stack-overflow-developer-survey-cdd69462cc92).
->>>>>>> 4fdd5b3... updated jupyter notebook file
++ The main findings of the code can be found at the post available here [Medium](https://jumahamdan.medium.com/exploratory-data-analysis-of-stack-overflow-developer-survey-cdd69462cc92).
 
+The main findings of the code can be found at the post available here on [Medium](https://jumahamdan.medium.com/exploratory-data-analysis-of-stack-overflow-developer-survey-cdd69462cc92).
 
 ## Licensing and Acknowledgements
 
 * [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
-<<<<<<< HEAD
+* Credit must be given to Stack Overflow for the data. The data can be found [Stack Overflow Survey Data](https://insights.stackoverflow.com/survey).
+* This project is part of Udacity Data Scientist Nanodegree. 
 * Credit must be given to Stack Overflow for the data. The data can be found [Stack Overflow Survey Data](https://insights.stackoverflow.com/survey).
 * This project is part of Udacity Data Scientist Nanodegree. 
 
 **Copyright (c) 2021 Juma Hamdan**
-=======
-
-* Credit must be given to Stack Overflow for the data. The data can be found [Stack Overflow Survey Data](https://insights.stackoverflow.com/survey).
-* This project is part of Udacity Data Scientist Nanodegree. 
-
-**Copyright (c) 2021 Juma Hamdan**
->>>>>>> 4fdd5b3... updated jupyter notebook file
